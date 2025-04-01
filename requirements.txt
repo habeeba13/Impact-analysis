@@ -2,4 +2,5 @@ streamlit
 matplotlib
 pandas
 seaborn
+sklearn 
 # other libraries you use
